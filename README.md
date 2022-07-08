@@ -1,2 +1,3 @@
 # 2022s1-awscourse
-Diverse tools for the course on AWS Cloud Computing
+
+Diverse tools and exercises for the course on AWS Cloud Computing
