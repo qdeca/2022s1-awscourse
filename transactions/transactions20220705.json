@@ -1,0 +1,40 @@
+{
+  "transactions": [
+    {
+      "transType": "PURCHASE",
+      "amount": 78
+    },
+    {
+      "transType": "SALE",
+      "amount": 45
+    },
+    {
+      "transType": "PURCHASE",
+      "amount": 40
+    },
+    {
+      "transType": "SALE",
+      "amount": 31
+    },
+    {
+      "transType": "SALE",
+      "amount": 20
+    },
+    {
+      "transType": "SALE",
+      "amount": 23
+    },
+    {
+      "transType": "PURCHASE",
+      "amount": 180
+    },
+    {
+      "transType": "PURCHASE",
+      "amount": 19
+    },
+    {
+      "transType": "PURCHASE",
+      "amount": 7
+    }
+  ]
+}
