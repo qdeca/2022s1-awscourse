@@ -11,6 +11,6 @@ The goals are the following :
   - postgresql-devel (sudo yum install postgresql-devel)
   - gcc (sudo yum install gcc)
   - psycopg2 (pip install psycopg2)
-- modify the code to then load the csv field in the RDS
+- modify the code to then load the csv field in the RDS (https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_PostgreSQL.S3Import.html)
 - add some sql to create a table with only free museums in Paris
 - add some sql to create a mini table that aggregates the sum of all free museum and the sum of all non-free ones, for each region
