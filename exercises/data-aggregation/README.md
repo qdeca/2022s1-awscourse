@@ -7,7 +7,7 @@ The goals are the following :
 - execute the python code to load the table in the RDS (replace the connection parameters with your own)
   by installing the following packages :
   - pip3 (sudo yum install pip3)
-  - python3-devel (sudoyum install python3-devel)
+  - python3-devel (sudo yum install python3-devel)
   - psycopg2 (pip3 install psycopg2)
 - modify the code to then load the csv field in the RDS
 - add some sql to create a table with only free museums in Paris
