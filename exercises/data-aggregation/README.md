@@ -5,6 +5,10 @@ The goal of the exercise is to make you manipulate some more S3 and the RDS, tha
 The goals are the following :
 - get the csv file and load it in S3
 - execute the python code to load the table in the RDS (replace the connection parameters with your own)
+  by installing the following packages :
+  - pip3 (sudo yum install pip3)
+  - python3-devel (sudoyum install python3-devel)
+  - psycopg2 (pip3 install psycopg2)
 - modify the code to then load the csv field in the RDS
 - add some sql to create a table with only free museums in Paris
 - add some sql to create a mini table that aggregates the sum of all free museum and the sum of all non-free ones, for each region
