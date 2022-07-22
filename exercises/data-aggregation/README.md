@@ -8,6 +8,8 @@ The goals are the following :
   by installing the following packages :
   - pip3 (sudo yum install pip3)
   - python3-devel (sudo yum install python3-devel)
+  - postgresql-devel (sudo yum install postgresql-devel)
+  - gcc (sudo yum install gcc)
   - psycopg2 (pip3 install psycopg2)
 - modify the code to then load the csv field in the RDS
 - add some sql to create a table with only free museums in Paris
