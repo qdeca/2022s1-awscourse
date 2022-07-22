@@ -6,7 +6,7 @@ The goals are the following :
 - get the csv file and load it in S3
 - execute the python code to load the table in the RDS (replace the connection parameters with your own)
   by installing the following packages :
-  - pip3 (sudo yum install pip)
+  - pip (sudo yum install pip)
   - python3-devel (sudo yum install python3-devel)
   - postgresql-devel (sudo yum install postgresql-devel)
   - gcc (sudo yum install gcc)
