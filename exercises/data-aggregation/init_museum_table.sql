@@ -1,4 +1,4 @@
-CREATE IF NOT EXISTS TABLE french_museum_attendance (
+CREATE TABLE IF NOT EXISTS french_museum_attendance (
     "id" VARCHAR(256),
     "osm_id" VARCHAR(256),
     "name" VARCHAR(256),
